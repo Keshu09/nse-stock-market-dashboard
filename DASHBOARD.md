@@ -5,6 +5,16 @@
 
 ## Dashboard Screenshots
 
+### Full Dashboard View
+![Dashboard](images/dashboard_full.png)
+
+### KPI Scorecards
+![KPIs](images/kpi_scorecards.png)
+
+### Stock Price Trend
+![Trend](images/stock_trend.png)
+
+
 
 ## Dashboard Features
 - ✅ Real-time data updates every 15 minutes
